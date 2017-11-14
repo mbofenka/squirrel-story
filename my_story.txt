@@ -20,5 +20,13 @@ glass lightly with his paw. "You are beautiful and worthy of love," he whispered
 
 Chapter 3
 ---------
-Epilogue: blah blah
-To be continued...
+4 Years Later...
+Nibbles ripped open the bulging envelope and frantically scanned the letter inside.
+"I got in to Carnegie Mellon! he exclaimed.
+"Hmm.. I wonder if ther is a course there where I can learn about Git?" he wondered.
+
+The Epilogoue
+---------
+After completing 98-174, Nibbles lived happily every after,
+and used Git to keep track of all of his acorns.
+The End
